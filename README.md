@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-- 🌱 I’m currently learning **CSS, HTML, JavaScript, Git, Python**
+- 🌱 I’m currently learning - CSS, HTML, JavaScript, Git, Python, NodeJS
 
 - 📫 How to reach me **viniciuusdepaula@gmail.com**
 - **+55 16 996634161**
