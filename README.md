@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://64.media.tumblr.com/961ebfabe1ae396d04b6803d107539ff/8feea8f0053177f8-ed/s540x810/a5a6e66c373c1a04e6bcf0b2dfb359ca2739f6c7.gifv](https://68.media.tumblr.com/29cba52aebacdeec51a093b91d5794a5/tumblr_osmi66dZmo1s2wio8o1_540.gif)"  />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
