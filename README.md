@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/961ebfabe1ae396d04b6803d107539ff/8feea8f0053177f8-ed/s540x810/a5a6e66c373c1a04e6bcf0b2dfb359ca2739f6c7.gifv"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/961ebfabe1ae396d04b6803d107539ff/8feea8f0053177f8-ed/s540x810/a5a6e66c373c1a04e6bcf0b2dfb359ca2739f6c7.gifv"  />
 
 ###
 
